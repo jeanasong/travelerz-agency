@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "https://github.com/jeanasong/Multiverse",
+            "request": "launch",
+            "url": "https://github.com/jeanasong/Multiverse"
+        }
+    ]
+}
